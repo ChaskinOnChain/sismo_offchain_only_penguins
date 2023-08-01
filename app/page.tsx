@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Sismo from "./components/Sismo";
 
 export default function Home() {
   return (
@@ -22,6 +23,7 @@ export default function Home() {
         birthday suits.
       </h2>
       <h4 className="text-gray-600">It costs 0.1 ETH to subscribe.</h4>
+      <Sismo />
     </main>
   );
 }
