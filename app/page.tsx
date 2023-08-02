@@ -22,7 +22,10 @@ export default function Home() {
         Sign In With Sismo and then subscribe to see the penguins in their
         birthday suits.
       </h2>
-      <h4 className="text-gray-600">It costs 0.1 ETH to subscribe.</h4>
+      <h4 className="text-gray-600">
+        It costs 0.1 ETH to subscribe. However, for each Pudgy Penguin you own
+        in the account with the most Pengus, you save 0.001 ETH.
+      </h4>
       <Sismo />
     </main>
   );
