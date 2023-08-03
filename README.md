@@ -1,6 +1,6 @@
 ## Overview
 
-The goal of this project is to learn about working with the Sismo Connect Server Library in an offchain environment. The main focus is setting up a private marketplace (akin to "Only Penguins") where users who possess a specific NFT (in this case, the Pudgy Penguins) can avail themselves of exclusive discounts. This system leverages the power of Zero-Knowledge Proofs (ZK Proofs) combined with offchain verification, ensuring that users can prove their NFT ownership without compromising their privacy or revealing the specifics of their holdings.
+The goal of this project is to learn about working with the Sismo Connect Server Library in an offchain environment. The main focus is setting up a private app similar to Only Fans (called "Only Penguins") where users who possess a specific NFT (in this case, the Pudgy Penguins) can avail themselves of exclusive discounts. This system leverages the power of Zero-Knowledge Proofs (ZK Proofs) combined with offchain verification, ensuring that users can prove their NFT ownership without compromising their privacy or revealing the specifics of their holdings.
 
 For a visual and step-by-step guide to setting up and understanding this project, follow along with the [YouTube tutorial](Link to the tutorial).
 
