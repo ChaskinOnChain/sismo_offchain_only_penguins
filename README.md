@@ -24,5 +24,5 @@ From here, you can follow along with the YouTube tutorial for detailed instructi
 - [YouTube Tutorial](Link to the tutorial)
 - [Official Sismo Connect Documentation](https://docs.sismo.io/)
 - [PlanetScale Database Documentation](https://planetscale.com/docs)
-- [Next.js Documentation](Link here)
+- [Next.js Documentation](https://nextjs.org/docs)
 - [MetaMask Official Site](https://docs.metamask.io/)
