@@ -2,7 +2,7 @@
 
 The goal of this project is to learn about working with the Sismo Connect Server Library in an offchain environment. The primary objective is to set up a private platform akin to OnlyFans, named "Only Penguins", where users holding a specific NFT, namely the Pudgy Penguins, receive a subscription discount based on the number of tokens they possess. This system leverages the power of Zero-Knowledge Proofs (ZK Proofs) combined with offchain verification, ensuring that users can prove their NFT ownership without compromising their privacy or revealing the specifics of their holdings.
 
-For a visual and step-by-step guide to setting up and understanding this project, follow along with the [YouTube tutorial](Link to the tutorial).
+For a visual and step-by-step guide to setting up and understanding this project, follow along with the [YouTube Tutorial](https://www.youtube.com/watch?v=iWkzggY4BzE) or [Blog Tutorial](https://mirror.xyz/dashboard/edit/heGFJLFwC91RK4_ePicV_zaV8tn_eyBb7YK4JYfgrWY).
 
 ## Getting Started
 
@@ -22,6 +22,7 @@ From here, you can follow along with the YouTube tutorial for detailed instructi
 ## Additional Resources
 
 - [YouTube Tutorial](Link to the tutorial)
+- [Blog Tutorial](https://mirror.xyz/dashboard/edit/heGFJLFwC91RK4_ePicV_zaV8tn_eyBb7YK4JYfgrWY)
 - [Official Sismo Connect Documentation](https://docs.sismo.io/)
 - [PlanetScale Database Documentation](https://planetscale.com/docs)
 - [Next.js Documentation](https://nextjs.org/docs)
